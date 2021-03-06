@@ -1,0 +1,19 @@
+Referencing this article [ https://reactrouter.com/web/guides/quick-start ]
+
+1,  npx create-react-app practice-router
+
+    [ practice-routerというアプリをnpxで作成 ]
+
+
+
+2,  cd practice-router
+
+    [ practice-routerへ移動 ]
+
+
+3,  npm install react-router-dom
+
+    [ react-routerをインストール ]
+
+
+

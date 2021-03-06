@@ -17,17 +17,17 @@ class App extends React.Component {
         <ul>
           <li>
             sleep
-            <button>edit</button>
+            <button>done</button>
             <button>delete</button>
           </li>
           <li>
             eat
-            <button>edit</button>
+            <button>done</button>
             <button>delete</button>
           </li>
           <li>
             live
-            <button>edit</button>
+            <button>done</button>
             <button>delete</button>
           </li>
         </ul>
